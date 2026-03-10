@@ -1,4 +1,5 @@
-
+// Copyright (c) 2026 bytasdik
+// Licensed under the MIT License — see LICENSE for details.
 
 #include <iostream>
 #include <fstream>
