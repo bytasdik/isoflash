@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/tasdik/Builds/isoflash/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

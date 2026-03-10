@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/tasdik/Builds/isoflash/build",
+  "command": "/usr/bin/clang++ -g -std=gnu++17 -Wall -Wextra -O2 -o CMakeFiles/iso_writer.dir/iso_writer.cpp.o -c /home/tasdik/Builds/isoflash/iso_writer.cpp",
+  "file": "/home/tasdik/Builds/isoflash/iso_writer.cpp",
+  "output": "/home/tasdik/Builds/isoflash/build/CMakeFiles/iso_writer.dir/iso_writer.cpp.o"
+}
+]

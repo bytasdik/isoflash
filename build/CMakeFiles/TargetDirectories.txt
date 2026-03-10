@@ -1,0 +1,7 @@
+/home/tasdik/Builds/isoflash/build/CMakeFiles/iso_writer.dir
+/home/tasdik/Builds/isoflash/build/CMakeFiles/edit_cache.dir
+/home/tasdik/Builds/isoflash/build/CMakeFiles/rebuild_cache.dir
+/home/tasdik/Builds/isoflash/build/CMakeFiles/list_install_components.dir
+/home/tasdik/Builds/isoflash/build/CMakeFiles/install.dir
+/home/tasdik/Builds/isoflash/build/CMakeFiles/install/local.dir
+/home/tasdik/Builds/isoflash/build/CMakeFiles/install/strip.dir
